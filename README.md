@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Desareecodes
+- 👋 Hi, I’m @Desaree 
 - 👀 I’m interested in front-end web development at the moment.
 - 🌱 I’m currently learning how to code with Udacity.
 - 💞️ I’m looking to collaborate on any projects.
